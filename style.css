@@ -9,7 +9,7 @@ body {
   background-color: #ddd;
 }
 
-.container h1 {
+h1 {
   margin-top: 0;
 }
 
@@ -18,12 +18,9 @@ body {
   font-size: 18px;
   width: 100%;
   margin-top: 20px;
+  margin-bottom: 5px;
   padding: 10px;
   background-color: #1b2845;
   color: white;
   cursor: pointer;
-}
-
-#resultado {
-  margin-top: 10px;
 }
