@@ -11,9 +11,12 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=grey">
 </p>
 
+<p align="center">
+  <img src="https://github.com/scillapinheiro/kenzie-academy-calculadora-imc/blob/main/mockup.jpg">
+</p>
 
 ## :computer: Projeto
-Calcule seu Índice de Massa Corporal com base em seu peso e altura.
+Calcule seu índice de massa corporal com base em seu peso e altura.
 
 
 ## :rocket: Tecnologias
